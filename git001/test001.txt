@@ -1,0 +1,7 @@
+ㅁ git
+	1. https://github.com/
+	2. 저장소
+	3. 비번인증키 > 인증서 붙여넣기
+	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
+	4. 이클립스 연동 - 프로젝트만들기
+	5. 
